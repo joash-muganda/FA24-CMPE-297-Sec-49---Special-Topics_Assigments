@@ -68,6 +68,7 @@
     - [Hint Document 2](https://docs.google.com/document/d/1jq4FYevW5sI5EJP6Fnp76DGLuegOYQeXT8-44WERcJU/edit?usp=sharing)
 - **Artifacts Required:**  
   - Transcripts along with artifacts
+  - [Full Chat Transcript](https://docs.google.com/document/d/18s_FP6PRqfXpsYmlpXS6adLs22YqxWI3R2_eNXY0IGA/edit?usp=sharing)
 
 **Demo Video Links:**
 - [Demo Video](https://drive.google.com/file/d/1N-jMqeps9TS0TPL5sBGRd0Uj-nkYT16K/view?usp=sharing)
