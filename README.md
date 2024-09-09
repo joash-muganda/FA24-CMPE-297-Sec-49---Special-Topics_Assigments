@@ -70,7 +70,7 @@
   - Transcripts along with artifacts
 
 **Demo Video Links:**
-- [Placeholder link - Insert your link here]
+- [Demo Video](https://drive.google.com/file/d/1N-jMqeps9TS0TPL5sBGRd0Uj-nkYT16K/view?usp=sharing)
 
 ---
 
