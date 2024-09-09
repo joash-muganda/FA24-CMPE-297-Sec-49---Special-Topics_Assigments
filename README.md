@@ -55,7 +55,7 @@
   - Colab notebooks and a demo video showcasing the use cases
 
 **Demo Video Links:**
-- [Placeholder link - Insert your link here]
+- [Demo Video](https://drive.google.com/file/d/1imyVndqYwhq3-qj2hu0rmLA7PZasVQOP/view?usp=sharing)
 
 ---
 
