@@ -83,7 +83,7 @@
   - Video demonstration and code generated
 
 **Demo Video Links:**
-- [Placeholder link - Insert your link here]
+- [Demo Video](https://drive.google.com/file/d/1W9_28Mnuz6jpqbQDq98kfHaDly0XBYMc/view?usp=sharing)
 
 ---
 
