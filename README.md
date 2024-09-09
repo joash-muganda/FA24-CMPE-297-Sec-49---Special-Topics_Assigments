@@ -86,18 +86,3 @@
 
 ---
 
-## Repository Structure
-
-- Each part should have its own directory in the top-level directory with proper titles.
-- Include a `README.md` in each directory explaining what was done and the associated artifacts.
-
-**All artifacts must be properly checked in to GitHub.**
-
-**Note:** You need to subscribe to GPT-4.0, Claude 3.5, and enable the cloud account for Gemini Vertex AI.
-
----
-
-## Class Participation
-
-We will spend the first 15 minutes of the next class reviewing these assignments (class participation counts for 10 points, so take this seriously).
-
