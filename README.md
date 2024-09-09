@@ -43,7 +43,7 @@
   - Colab notebooks and a demo video showcasing the features
 
 **Demo Video Links:**
-- [LLM Capabilities Demo](https://drive.google.com/file/d/1XXhiGOL50Rtz6OjV1GIJ5hnZ1TI4CIAq/view?usp=sharing)
+- [LLM Capabilities Demo](https://drive.google.com/file/d/1m51WyjLsxfcKcoIRWDeq_bnw5T4A9YPj/view?usp=sharing)
 
 ---
 
@@ -52,7 +52,7 @@
 - **Objective:**  
   Showcase 10 novel use cases of using Gemini's long context capabilities by demonstrating them and writing a Medium article (with the help of Gemini).
 - **Artifacts Required:**  
-  - Colab notebooks and a demo video showcasing the use cases
+  - A demo video showcasing the use cases
 
 **Demo Video Links:**
 - [Demo Video](https://drive.google.com/file/d/1imyVndqYwhq3-qj2hu0rmLA7PZasVQOP/view?usp=sharing)
