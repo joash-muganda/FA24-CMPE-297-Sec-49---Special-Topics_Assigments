@@ -26,12 +26,16 @@
 
 - **Objective:**  
   Install and use the latest Claude Dev extension. Reproduce a complex task using the Claude 3.5 Sonnet extension. Demonstrate the process through a web app, mobile app, or any end-to-end application.
+
 - **Artifacts Required:**  
   - Demo video of the installation and use
   - Code generated or used during the process
 
 **Demo Video Links:**
-- [GPT Chat App Demo](https://drive.google.com/file/d/1MQ7ORefdMiXRyZ0oeTazEHxhCTbQpkBH/view?usp=sharing)
+1. [GPT Chat App Demo](https://drive.google.com/file/d/1MQ7ORefdMiXRyZ0oeTazEHxhCTbQpkBH/view?usp=sharing)
+2. [Claude Dev Extension Installation and Usage](https://drive.google.com/file/d/1aF3_TM7W4oD3lNNrWC1G-F1KsCKjooVs/view?usp=sharing)
+
+The files for the GPT Chat App can be found in the master branch for reference.
 
 ---
 
