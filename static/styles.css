@@ -1,0 +1,111 @@
+:root {
+    --bg-color: #f0f0f0;
+    --text-color: #333;
+    --input-bg: #fff;
+    --input-border: #ccc;
+    --button-bg: #007bff;
+    --button-text: #fff;
+    --message-bg: #fff;
+    --bot-message-bg: #e6f3ff;
+}
+
+.dark-theme {
+    --bg-color: #333;
+    --text-color: #f0f0f0;
+    --input-bg: #444;
+    --input-border: #555;
+    --button-bg: #0056b3;
+    --button-text: #fff;
+    --message-bg: #444;
+    --bot-message-bg: #2c3e50;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.chat-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#chat-messages {
+    height: 60vh;
+    overflow-y: auto;
+    border: 1px solid var(--input-border);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: var(--message-bg);
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.user-message {
+    background-color: var(--message-bg);
+    text-align: right;
+}
+
+.bot-message {
+    background-color: var(--bot-message-bg);
+}
+
+.input-container {
+    display: flex;
+    gap: 10px;
+}
+
+#user-input {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid var(--input-border);
+    border-radius: 5px;
+    resize: vertical;
+    background-color: var(--input-bg);
+    color: var(--text-color);
+}
+
+#send-button, #theme-toggle {
+    padding: 10px 20px;
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#send-button:hover, #theme-toggle:hover {
+    background-color: #0056b3;
+}
+
+#send-button:focus, #theme-toggle:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.message {
+    animation: fadeIn 0.3s ease-out;
+}
