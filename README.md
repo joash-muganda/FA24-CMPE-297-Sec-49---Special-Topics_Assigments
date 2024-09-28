@@ -33,7 +33,7 @@
 
 **Demo Video Links:**
 1. [GPT Chat App Demo](https://drive.google.com/file/d/1MQ7ORefdMiXRyZ0oeTazEHxhCTbQpkBH/view?usp=sharing)
-2. [Claude Dev Extension Installation and Usage](https://drive.google.com/file/d/1aF3_TM7W4oD3lNNrWC1G-F1KsCKjooVs/view?usp=sharing)
+2. [GPT Chat App Demo v2](https://drive.google.com/file/d/1aF3_TM7W4oD3lNNrWC1G-F1KsCKjooVs/view?usp=sharing)
 
 The files for the GPT Chat App can be found in the master branch for reference.
 
