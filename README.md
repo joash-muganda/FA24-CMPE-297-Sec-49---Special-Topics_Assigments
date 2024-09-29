@@ -54,12 +54,14 @@ The files for the GPT Chat App can be found in the master branch for reference.
 ## Part D: Use Cases of Long Context with Gemini
 
 - **Objective:**  
-  Showcase 10 novel use cases of using Gemini's long context capabilities by demonstrating them and writing a Medium article (with the help of Gemini).
+  Showcase novel use cases of using Gemini's long context capabilities by demonstrating them and writing a Medium article (with the help of Gemini).
 - **Artifacts Required:**  
   - A demo video showcasing the use cases
 
 **Demo Video Links:**
 - [Demo Video](https://drive.google.com/file/d/1imyVndqYwhq3-qj2hu0rmLA7PZasVQOP/view?usp=sharing)
+- [Demo Video v2](https://drive.google.com/file/d/10r6O3r61nWPfE_8EPDU7jrQyF1K59ORT/view?usp=sharing)
+- [Demo Video v3](https://drive.google.com/file/d/1oF8zFfwf0t99GIwHaldNpKUIjS60FcBc/view?usp=sharing)
 
 ---
 
