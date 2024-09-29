@@ -1,6 +1,5 @@
 # Assignment Overview
 
-**Due Date:** This assignment was locked on Sep 2 at 11:59pm.  
 **Structure:** This is a multi-part assignment, with each part requiring specific artifacts. Below are the details of each part:
 
 ---
@@ -18,6 +17,7 @@
   - Transcript and demo video showcasing the process
 
 **Demo Video Links:**
+- [Video Summarization Demo v2](https://drive.google.com/file/d/1Ml-FbkxpnmP7jXzTYccvt6T8hjgUPmrO/view?usp=sharing)
 - [Video Summarization Demo](https://drive.google.com/file/d/1_9Z4LmVKg9F8-h34kOBRwPwkq4ve2ddH/view?usp=sharing)
 
 ---
