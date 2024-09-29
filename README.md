@@ -18,7 +18,7 @@
 
 **Demo Video Links:**
 - [Video Summarization Demo v2](https://drive.google.com/file/d/1Ml-FbkxpnmP7jXzTYccvt6T8hjgUPmrO/view?usp=sharing)
-- [Video Summarization Demo](https://drive.google.com/file/d/1_9Z4LmVKg9F8-h34kOBRwPwkq4ve2ddH/view?usp=sharing)
+- [Video Summarization Demo](https://drive.google.com/file/d/1Ml-FbkxpnmP7jXzTYccvt6T8hjgUPmrO/view?usp=sharing)
 
 ---
 
