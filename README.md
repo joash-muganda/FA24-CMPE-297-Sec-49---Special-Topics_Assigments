@@ -47,7 +47,7 @@ The files for the GPT Chat App can be found in the master branch for reference.
   - Colab notebooks and a demo video showcasing the features
 
 **Demo Video Links:**
-- [LLM Capabilities Demo](https://drive.google.com/file/d/1m51WyjLsxfcKcoIRWDeq_bnw5T4A9YPj/view?usp=sharing)
+- [LLM Capabilities Demo](https://drive.google.com/file/d/1Xfero4wFiVebDsYabHgnTDJ7xiOoW4pG/view?usp=sharing)
 
 ---
 
